@@ -65,6 +65,7 @@ CIRCUIT DIAGRAM
 ![Screenshot 2024-03-18 121244](https://github.com/sakamalesh/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/149148235/7ff05b8d-ed2d-4f0d-a3c9-0dc859fd805c)
 
 
+
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
 2.	Connect the board to your computer via the USB cable.
@@ -75,6 +76,8 @@ CIRCUIT DIAGRAM
 7.	Open the file of the program  and verify the error , clear if any errors that are existing 
 8.	Upload the program and check for the physical working. 
 9.	Ensure safety before powering up the device.
+
+
 
 
 ### PROGRAM :
