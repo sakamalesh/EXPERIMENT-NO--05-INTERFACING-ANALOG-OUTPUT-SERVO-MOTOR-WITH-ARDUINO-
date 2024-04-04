@@ -81,8 +81,9 @@ CIRCUIT DIAGRAM
 
 
 ### PROGRAM :
+
 """
- #include<Servo.h>
+#include<Servo.h>
 
 Servo s1;
 
