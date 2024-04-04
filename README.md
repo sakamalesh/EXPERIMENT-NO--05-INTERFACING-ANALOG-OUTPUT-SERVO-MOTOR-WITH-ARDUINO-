@@ -97,24 +97,40 @@ void setup()
 }
 
 void loop()
+
 {
+
   for (pos=0;pos<=180;pos+=1)
+  
   {
+  
     s1.write(pos);
+    
     delay(15);
+    
     //Serial.print("Angle=");
+    
     Serial.println(pos);
     
+    
   }
+  
   for (pos=180;pos>=1;pos-=1)
+  
   {
+  
     s1.write(pos);
+    
     delay(15);
+    
     //Serial.print("Angle=");
     
     
+    
   }
+  
 }
+
  
 """
 
